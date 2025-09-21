@@ -4,7 +4,7 @@ export default function About() {
       {/* Page Heading */}
       <div className="text-center mb-10">
         <h2 className="text-4xl md:text-5xl font-extrabold text-gray-900">
-          About <span className="text-blue-600">NextStore</span>
+          About <span className="text-blue-600">Shahzaib Hassan Store</span>
         </h2>
         <p className="mt-4 text-lg text-gray-600 max-w-2xl mx-auto">
           Your trusted destination for quality products, unbeatable prices, and
