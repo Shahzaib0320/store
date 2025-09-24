@@ -16,7 +16,7 @@ export default function About() {
       <div className="bg-white rounded-2xl shadow-md p-8 mb-10">
         <h3 className="text-2xl font-semibold text-gray-800 mb-4">Our Mission</h3>
         <p className="text-gray-700 leading-relaxed">
-          At NextStore, our mission is to deliver the best online shopping
+          At Shahzaib Hassan, our mission is to deliver the best online shopping
           experience with unbeatable prices, carefully curated products,
           and reliable customer support. We believe shopping should be simple,
           secure, and exciting.
